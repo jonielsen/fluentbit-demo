@@ -51,7 +51,7 @@ data:
         Name            azure_blob
         Match           *
         account_name    fdada
-        Port            storage-account-key
+        Port            storage-account-key-goes-here
         path            kubernetes
         container_name  logs
         tls             on
